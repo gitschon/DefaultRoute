@@ -10,7 +10,7 @@ google_dns="8.8.4.4"
 yandex_dns="77.88.8.8"
 cloudflare_dns="1.1.1.1"
 
-log="/root/default_route.log" #Path to log file
+log="/root/default_route.log" #path to the log file
 ####################################################################################
 
 case "$1" in
